@@ -1,1 +1,6 @@
-@sharmaks
+# Assign all files to you
+* @sharamaks
+
+# Assign specific folders/files
+/docs/ @sharamaks
+*.py @sharamaks
