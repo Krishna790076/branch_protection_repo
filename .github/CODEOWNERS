@@ -1,1 +1,5 @@
-@sharmaks
+# Assign @sharmaks to testing1 folder
+/testing1/ @sharmaks
+
+# Assign @harshit to testing2 folder
+/testing2/ @patidar-harshit
