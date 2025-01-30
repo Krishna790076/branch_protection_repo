@@ -1,6 +1,5 @@
-# Assign all files to both reviewers
-* @sharamaks @patidar-harshit
+# Assign @harshit to testing2 folder
+/testing2/ @Deepankerpanchal
 
-# Assign specific folders/files
-/docs/ @sharamaks @patidar-harshit
-*.py @sharamaks @patidar-harshit
+# Assign @sharamaks to testing1 folder
+/testing1/ @sharamaks
